@@ -40,6 +40,19 @@ Follow the steps below to start using this project as a base for your new Next.j
 
 5. Now you can access your application at http://localhost:3000.
 
+## Scripts
+
+Use the following scripts to manage your project:
+
+- `dev`: Start the development server to run your project locally.
+- `build`: Build the project for production.
+- `start`: Start the production server to serve your application.
+- `lint`: Check and maintain code consistency using ESLint.
+- `check`: Check code formatting with Prettier.
+- `fix`: Automatically fix code formatting issues with Prettier.
+
+Feel free to use these scripts to streamline your development workflow.
+
 ## Contributions
 
 Feel free to contribute to improvements, bug fixes, or adding new features to this project. Simply fork this repository, make the desired changes, and submit a pull request.
