@@ -18,23 +18,27 @@ Follow the steps below to start using this project as a base for your new Next.j
 
    ```bash
    git clone https://github.com/DjessykaCarvalho/start-next-project.git
+
+2. Navigate to the project directory:
+
+   ```bash
    cd start-next-project
    
-2. Install the dependencies:
+3. Install the dependencies:
    
    ```bash
    npm install
    # or
    yarn install
 
-3. Start the development server:
+4. Start the development server:
    
    ```bash
    npm run dev
    # or
    yarn dev
 
-4. Now you can access your application at http://localhost:3000.
+5. Now you can access your application at http://localhost:3000.
 
 ## Contributions
 
